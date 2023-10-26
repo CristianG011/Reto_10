@@ -50,5 +50,7 @@ print(f"La cantidad de ceros que aparecen son: {lista.count(0)}")
 ```
 # Punto 4
 4. Revisar que son los algoritmos de *sorting*, entender *bubble-sort* ([enlace](https://www.geeksforgeeks.org/bubble-sort/) a implementación).
+   
 En computación y matemáticas un algoritmo de ordenamiento es un algoritmo que pone elementos de una lista o un vector en una secuencia dada por una relación de orden, es decir, el resultado de salida ha de ser una permutación —o reordenamiento— de la entrada que satisfaga la relación de orden dada.
+El *bubble-sort*, es basicamente una forma de ordean los números del más pequeño al más grande, esto lo hace mediante una análisis de izquiera a derecha, poniendo el número más grande a la derecha
 
